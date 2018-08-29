@@ -1,2 +1,17 @@
-# pretty_print_binary_tree
-Pretty print a binary tree
+#Description
+Pretty prints a binary tree.
+
+#Example
+```
+                                                              55555
+                                                /                               \
+                              33333                                                           11111
+                        /               \                                               /               \
+              11111                           11111                             8                              999
+            /       \                       /       \                       /       \                               \
+        8             8888              8               8               4               4                              48
+      /   \           /   \           /   \           /   \           /   \           /   \                               \
+    4       4      444     444      4       4       4       4       2       2       2     -222                             12
+   / \     / \     / \     / \     / \     / \     / \     / \                                                               \
+  2   2   2   2  22  22  22  22   2   2   2   2   2   2   2   2                                                              -3
+```
